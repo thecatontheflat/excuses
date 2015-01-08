@@ -1,5 +1,6 @@
-# developers-excuses
-Developers Excuses
+# Developers Excuses
+
+This is a collection of various developers excuses
 
 ## Installation
 
