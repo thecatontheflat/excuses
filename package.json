@@ -1,0 +1,19 @@
+{
+  "name": "excuses",
+  "version": "1.0.0",
+  "description": "Excuses from all fields, specialists etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:thecatontheflat/excuses.git"
+  },
+  "author": "Vitaliy Zurian <vitaliy.zurian@gmail.com>",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/thecatontheflat/excuses/issues"
+  },
+  "homepage": "https://github.com/thecatontheflat/excuses"
+}
