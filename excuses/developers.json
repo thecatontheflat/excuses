@@ -37,7 +37,7 @@
     "The tests didn't cover that edge case",
     "I haven't pushed the fix up yet",
     "The error means it has processed correctly",
-    "I couldn't recreate that error",
+    "I couldn't reproduce that error",
     "It worked before",
     "It has always worked before",
     "Nothing has changed in the code",
