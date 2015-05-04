@@ -162,6 +162,9 @@
     "The client requested an XML response, but JSON is clearly better",
     "It's most likely a forwarding proxy server that is caching the response",
     "But we are in a startup, what would you expect?",
-    "Man, I am not that type of a person!"
+    "Man, I am not that type of a person!",
+    "I was sick",
+    "The stakeholder was sick",
+    "Everyone was sick"
   ]
 }
